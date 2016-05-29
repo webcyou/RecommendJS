@@ -1,0 +1,13 @@
+{
+  "name": "recommend",
+  "version": "1.0.0",
+  "main": "dist/recommend.js",
+  "authors": [
+    "daisuke.takayama"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
