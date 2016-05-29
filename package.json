@@ -39,5 +39,13 @@
     "del": "^2.0.1",
     "gulp-clean": "^0.3.1",
     "gulp-plumber": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcyou/RecommendJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webcyou/RecommendJS/issues"
+  },
+  "homepage": "https://github.com/webcyou/RecommendJS#readme"
 }

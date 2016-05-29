@@ -14,8 +14,14 @@ RecommendJS - Recommend Algorithm JavaScript Library
 
 #### Bower
 ```
-bower install recommend_js
+bower install recommend
 ```
+#### npm
+
+```
+npm install recommend_js
+```
+
 
 ### Basic Usage
 
